@@ -47,7 +47,7 @@ const Products = () => {
 
           <p className="text-gray-500 text-sm sm:text-base max-w-2xl mx-auto mt-4 leading-6">
             Explore our collection of quality food products and
-            discover everything you need for your kitchen.
+            discover everything you need for helo 
           </p>
 
           <div className="flex justify-center mt-5">
